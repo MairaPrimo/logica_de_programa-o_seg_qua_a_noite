@@ -1,0 +1,28 @@
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\bin\Debug\net8.0\ex01.exe
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\bin\Debug\net8.0\ex01.deps.json
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\bin\Debug\net8.0\ex01.dll
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\bin\Debug\net8.0\ex01.pdb
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\ex01.dll
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\refint\ex01.dll
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\ex01.pdb
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+C:\Users\maira.psouza\source\repos\Logíca programação\ex01\obj\Debug\net8.0\ref\ex01.dll
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\bin\Debug\net8.0\ex01.exe
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\bin\Debug\net8.0\ex01.deps.json
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\bin\Debug\net8.0\ex01.dll
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\bin\Debug\net8.0\ex01.pdb
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\ex01.dll
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\refint\ex01.dll
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\ex01.pdb
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+C:\Users\maira.psouza\source\repos\logica-programacao\ex01\obj\Debug\net8.0\ref\ex01.dll
