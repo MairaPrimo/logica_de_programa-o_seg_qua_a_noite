@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\maira.psouza\\source\\repos\\ex04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD18AB60-8D62-4F5A-8B33-87FF66307CE9}|ex05\\ex05.csproj|c:\\users\\maira.psouza\\source\\repos\\ex04\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD18AB60-8D62-4F5A-8B33-87FF66307CE9}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF7AF60C-DAF1-41CC-AC08-7C122E6D3DA9}|ex04\\ex04.csproj|c:\\users\\maira.psouza\\source\\repos\\ex04\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF7AF60C-DAF1-41CC-AC08-7C122E6D3DA9}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,21 +18,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1374300719:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maira.psouza\\source\\repos\\ex04\\ex05\\Program.cs",
+              "RelativeDocumentMoniker": "ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\maira.psouza\\source\\repos\\ex04\\ex05\\Program.cs",
+              "RelativeToolTip": "ex05\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:38:33.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maira.psouza\\source\\repos\\ex04\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
               "ToolTip": "C:\\Users\\maira.psouza\\source\\repos\\ex04\\ex04\\Program.cs",
               "RelativeToolTip": "ex04\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T00:20:47.656Z",
               "EditorCaption": ""

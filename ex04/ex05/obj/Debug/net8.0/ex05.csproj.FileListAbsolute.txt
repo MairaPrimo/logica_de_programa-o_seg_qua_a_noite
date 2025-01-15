@@ -1,0 +1,15 @@
+C:\Users\maira.psouza\source\repos\ex04\ex05\bin\Debug\net8.0\ex05.exe
+C:\Users\maira.psouza\source\repos\ex04\ex05\bin\Debug\net8.0\ex05.deps.json
+C:\Users\maira.psouza\source\repos\ex04\ex05\bin\Debug\net8.0\ex05.runtimeconfig.json
+C:\Users\maira.psouza\source\repos\ex04\ex05\bin\Debug\net8.0\ex05.dll
+C:\Users\maira.psouza\source\repos\ex04\ex05\bin\Debug\net8.0\ex05.pdb
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ex05.AssemblyInfoInputs.cache
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ex05.AssemblyInfo.cs
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ex05.csproj.CoreCompileInputs.cache
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ex05.sourcelink.json
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ex05.dll
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\refint\ex05.dll
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ex05.pdb
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ex05.genruntimeconfig.cache
+C:\Users\maira.psouza\source\repos\ex04\ex05\obj\Debug\net8.0\ref\ex05.dll
